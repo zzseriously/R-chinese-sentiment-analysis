@@ -1,4 +1,4 @@
-# -R-chinese-sentiment-analysis
+# 用R做中文情緒分析
 用R做中文情緒分析
 
 # 教學影片
